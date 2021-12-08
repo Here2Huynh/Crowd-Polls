@@ -27,4 +27,7 @@
     font-size: 14px;
     padding: 5px;
   }
+  a {
+    color: orange;
+  }
 </style>
