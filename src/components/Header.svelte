@@ -2,6 +2,7 @@
   <h1>
     <img src="/img/polling.png" alt="Crowd Polls Logo" />
   </h1>
+  <h1>Crowd Polls</h1>
 </header>
 
 <style>
